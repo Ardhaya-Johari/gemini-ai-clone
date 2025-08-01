@@ -51,11 +51,10 @@ cd gemini-ai-clone
 
 ## 🤝 Contributing
 Pull requests and issues are welcome!
-```bash
+
 # Fork and clone this repo
 # Make your changes
 # Submit a PR 🚀
-```
 
 ## 📄 License
 
